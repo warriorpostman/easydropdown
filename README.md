@@ -1,4 +1,8 @@
-> NB: This project is not currently under developement or maintainance. Unfortunately I do not have time to devote to it at the moment, but a v3.0 rewrite will happen at some point in the future. Issues have been disabled for now, but I would recommend reviewing the pending pull requests to get an idea of which issues may affect your project and the neccessary fixes that have been generously contributed by the community. Unfortunately I can not respond to any support questions regarding this plugin. Thank you.
+NOTE: This is a fork of patrickkunka/easydropdown. It contains fixes from the following pull requests:
+
+Fix select value (off-by-one error): https://github.com/patrickkunka/easydropdown/pull/70
+Fix garbled HTML in README: https://github.com/patrickkunka/easydropdown/pull/73
+
 
 # EasyDropDown
 ### A Drop-down Builder For Styled Inputs and Menus
